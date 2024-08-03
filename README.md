@@ -1,6 +1,6 @@
 ### 👋 Hi! I’m Lin Chen.
-🌱 I’m currently a undergraduate at the School of Software, Shandong University.
+🌱 I'm currently a PhD Student at Institute of Automation, Chinese Academy of Sciences (CASIA), advised by [Prof. Shiming Xiang](https://scholar.google.com/citations?hl=zh-CN&user=0ggsACEAAAAJ). Prior to that, I received my bachelor degree from Shandong University in 2024.
 
-👀 My primary research interests include autonomous driving, computer vision and robot.
+👀 My primary research interests include open-world computer vision.
 
-✉ You can contact me with clqwq@mail.sdu.edu.cn.
+✉ You can contact me with chenlin2024@ia.ac.cn.
